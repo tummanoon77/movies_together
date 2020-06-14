@@ -1,0 +1,12 @@
+#jumbotronMain {
+    margin-top: 0px;
+    background-color: #c2d4ddde;
+   
+}
+
+.blurb {
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: 'Aclonica', sans-serif;
+    font-size: 18px;  
+}
