@@ -11,6 +11,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/RexAnuforo?label=Follow%20Rex&style=social)
 
 **Github Repo:**
+
 https://github.com/tanksareforcowards/movies_together
 
 https://github.com/tummanoon77/movies_together
@@ -42,6 +43,8 @@ node server.js
 * [Rex](https://github.com/RexAnuforo)
 
 ## Screenshot
+
+https://imgur.com/a/IaxlhvA
 
 ## License
 
