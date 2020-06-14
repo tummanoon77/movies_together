@@ -44,7 +44,7 @@ node server.js
 
 ## Screenshot
 
-https://imgur.com/a/IaxlhvA
+![screenshot](https://imgur.com/a/IaxlhvA)
 
 ## License
 
