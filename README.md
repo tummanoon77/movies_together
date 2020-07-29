@@ -24,6 +24,9 @@ https://github.com/RexAnuforo/movies_together
 
 ## Description
 
+MoviesTogether is a website made to help people find if a movie exist on common streaming platforms netflix and google play being examples of such. 
+
+
 ## The Tech
 
 * HTML/CSS
