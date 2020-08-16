@@ -4,7 +4,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/tummanoon77?label=Follow%20Tummanoon&style=social)
 
-![GitHub followers](https://img.shields.io/github/followers/tanksareforcowards?label=Follow%20Andrew&style=social)
+![GitHub followers](https://img.shields.io/github/followers/abratcher1066?label=Follow%20Andrew&style=social)
 
 ![GitHub followers](https://img.shields.io/github/followers/koutron?label=Follow%20Kouros&style=social)
 
@@ -65,6 +65,7 @@ MoviesTogether is a website made to help people find if a movie exist on common 
 ## License
 
 MIT License
+![APM](https://img.shields.io/apm/l/vim-mode)
 
 Copyright (c) [2020] [Movies Together]
 
