@@ -12,7 +12,7 @@
 
 **Github Repo:**
 
-https://github.com/abratcher1066/movies_together
+https://abratcher1066/movies_together
 
 https://github.com/tummanoon77/movies_together
 
